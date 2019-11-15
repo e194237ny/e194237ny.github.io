@@ -1,0 +1,28 @@
+h1{
+    color: darkgreen;
+    text-align: center;
+    background-color: crimson;
+}
+h2{
+    color: white;
+    text-align: center;
+    background-color: darkblue;
+}
+table{
+    background-color: darkorange;
+}
+ol{
+    color: crimson;
+    background-image: url(../images/ex1_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+body{
+    background-image: url(../images/ex1_image2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: center;
+}
