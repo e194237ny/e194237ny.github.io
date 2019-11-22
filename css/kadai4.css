@@ -1,0 +1,27 @@
+h1#titlecolor{
+    color: white;
+    background-color: black;
+}
+h1#linkcolor{
+    color: blue;
+    background-color: darkorchid;
+}
+h2.syumi_1{
+    color: yellow;
+    background-color: darkred;
+}
+h2.syumi_2{
+    color: blue;
+    background-color: darkcyan;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-image: url(../images/kadai4.3_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
