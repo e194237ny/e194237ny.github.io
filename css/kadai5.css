@@ -1,0 +1,82 @@
+div.menu{
+    width: 1000px;
+    height: 320px;
+    background-color: azure;
+    font-size: 0px;
+    margin-bottom: 20px;
+    }
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: gainsboro;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+div.footer{
+    text-align:right;
+    vertical-align: bottom;
+    width: 1000px;
+    height: 40px;
+    background-color: orange;
+    font-size: 35px;
+}
+div.RIGHT{
+    display: inline-block;
+    vertical-align: top;
+    width: 700px;
+    height: 320px;
+    background-color: dimgrey;
+}
+div.LEFT{
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+    height: 320px;
+    background-color: dimgrey;
+    margin-right: 50px;
+}
+div.menu1{
+    background-color: red;
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: middle;
+    height: 50px;
+    width: 250px;
+    padding-top: 50px;
+}
+div.menu2{
+    background-color: red;
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: middle;
+    height: 50px;
+    width: 250px;
+    padding-top: 50px;
+}
+div.menu3{
+    background-color: red;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: middle;
+    height: 50px;
+    width: 250px;
+    padding-top: 50px;
+}
+div.TEXT{
+    background-color: blue;
+    font-size: 15px;
+    text-align: center;
+    height: 20px;
+    width: 700px;
+}
+div.Image{
+    background-color: black;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    height: 150px;
+    padding-top: 150px;
+}
