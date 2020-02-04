@@ -1,0 +1,78 @@
+div.Top{
+    width: 1000px;
+    height: 52px;
+    font-size: 0px;
+    margin: auto;
+    margin-bottom: 20px;
+    background-color: yellow;
+}
+span.Title{
+    display: inline-block;
+    font-size: 30px;
+    text-align: center;
+    width: 550px;
+    height: 50px;
+}
+p.text1{
+    font-size: 24px;
+}
+span.site{
+    padding-top: 2px;
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+    font-family: impact;
+    width: 150px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+}
+span.menuitem{
+    padding-top: 2px;
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact;
+    width: 150px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+}
+div.images{
+    width: 1000px;
+    margin: auto;
+    color: white;
+}
+div.content{
+    margin: auto;
+    font-size: 0px;
+    height: 360px;
+    width: 1000px;
+    margin-bottom: 40px;
+}
+span.C_title{
+    display: inline-block;
+    height: 40px;
+    width: 620px;
+    background-color: orange;
+    font-size: 35px;
+    text-align: center;
+    vertical-align: top;
+}
+span.profile{
+    display: inline-block;
+    height: 360px;
+    width: 300px;
+    font-size: 20px;
+    padding-left: 20px;
+    text-align: center;
+    vertical-align: top;
+}
+span.name{
+    text-align: right;
+}
+body{
+    background-image: url(../images/index_backgroundimage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
